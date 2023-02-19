@@ -25,3 +25,6 @@ https://github.com/ibrajix/NftApp
 ## Download (APK)
 
 <a href="https://github.com/ibrajix/NftAppFlutter/releases/download/v1.1/nft-app-flutter-1.2.apk">Click to download</a>
+
+# Medium Article
+- https://ibrajix.medium.com/my-experience-with-flutter-as-a-native-android-developer-a4437ac094b6
